@@ -13,7 +13,7 @@ In addition, I tested and verified that all the links worked properly and cleane
 
 ## Screenshot of the Product
 
-[Horiseon webpage]
+![Horiseon webpage]
 https://alexjcturbo.github.io/challenge_one/asset/images/website_screen_shot.jpg
 
 
