@@ -13,8 +13,7 @@ In addition, I tested and verified that all the links worked properly and cleane
 
 ## Screenshot of the Product
 
-![Horiseon Webpage]
-(https://github.com/AlexJCturbo/challenge_one/tree/main/asset/images/website_screen_shot.jpg)
+![Horiseon Webpage](./assets/images/website_screen_shot.jpg)
 
 
 ## Links to GitHub Repository and Horiseon
@@ -22,4 +21,3 @@ In addition, I tested and verified that all the links worked properly and cleane
 [Horiseon deployed link](https://alexjcturbo.github.io/challenge_one/)
 
 [GitHub Repository](https://github.com/AlexJCturbo/challenge_one)
-
