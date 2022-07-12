@@ -11,7 +11,7 @@ I also organized the semantic structure of the webpage to delimit the different 
 In addition, I tested and verified that all the links worked properly and cleaned the CSS coding to remove redundancy and make the code more compact. Finally, I added comments to indicate the changes and improvements made to the original code for better tracking of the proposed changes.
 
 
-## Screenshot of the Product
+## Screenshot of the Website
 
 ![Horiseon Webpage](./assets/images/website_screen_shot.jpg)
 
